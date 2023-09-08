@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript ,HTML/CSS, SQL**
 
-- 📫 How to reach me **sarthaku47@gmail.com**
+- 📫 How to reach me **sarthakuppal@outlook.com**
 
 - ⚡ Fun fact **I'm a coffee enthusiast, and my code is powered by caffeine ☕️**
 
