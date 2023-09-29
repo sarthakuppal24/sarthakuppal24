@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **a Frontend Project using React Js**
 
-- 🌱 I’m currently learning **React Js , Tailwind**
+- 🌱 I’m currently learning **React Js*
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **Web3 , Next Js**
+- 🤝 I’m looking for help with **ReactJs**
 
-- 💬 Ask me about **Javascript ,HTML/CSS, SQL**
+- 💬 Ask me about **Javascript ,HTML/CSS, SQL , C++**
 
 - 📫 How to reach me **sarthakuppal@outlook.com**
 
